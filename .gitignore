@@ -1,0 +1,42 @@
+# Python cache & compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+env/
+venv/
+ENV/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Model files & large data
+*.onnx
+*.h5
+*.pb
+*.ckpt
+*.tflite
+*.pth
+*.pt
+*.npz
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs & outputs
+*.log
+
+# VSCode settings
+.vscode/
+
+# User-specific files
+*.swp
+*.swo
+
+# Ignore model folders (edit as needed)
+QCS/me_models/
+dodosd/model/

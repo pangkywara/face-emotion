@@ -1,0 +1,9 @@
+opencv-python>=4.6.0
+numpy>=1.21.6
+onnxruntime>=1.8.0
+tensorflow>=2.8.0
+matplotlib>=3.5.3
+seaborn>=0.12.2
+# Untuk post-processing dan utilitas
+scikit-learn>=1.0.2
+# Jika ingin menjalankan di GPU, tambahkan onnxruntime-gpu dan tensorflow-gpu sesuai CUDA
