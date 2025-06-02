@@ -67,7 +67,7 @@ Sistem deteksi emosi wajah secara _real-time_ yang canggih! Aplikasi ini menggun
     > * **Model Klasifikasi Emosi (ONNX):**
     >     File model ONNX harus diletakkan di:
     >     ```
-    >     <nama-folder-proyek>/QCS/me_models/mobilenetv3_mixed_weighted_fp16.onnx
+    >     <nama-folder-proyek>/QCS/me_models/qcs_rafdb_model.onnx
     >     ```
     >     Jika Anda menggunakan nama atau path file ONNX yang berbeda, Anda perlu menyesuaikannya melalui argumen `--onnx_model_path` saat menjalankan aplikasi.
     >
