@@ -5,7 +5,7 @@ Sistem deteksi emosi wajah secara _real-time_ yang canggih! Aplikasi ini menggun
 [![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Framework: TensorFlow](https://img.shields.io/badge/AI-TensorFlow-orange.svg)](https://www.tensorflow.org/)
 [![Model Format: ONNX](https://img.shields.io/badge/AI-ONNX-brightgreen.svg)](https://onnx.ai/)
-[![License: MIT ](https://img.shields.io/badge/License-MIT-yellow.svg)](#lisensi) ---
+[![License: MIT ](https://img.shields.io/badge/License-MIT-yellow.svg)](#LICENSE) ---
 
 ## ✨ Fitur Utama
 
