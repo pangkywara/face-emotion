@@ -5,7 +5,7 @@ Sistem deteksi emosi wajah secara _real-time_ yang canggih! Aplikasi ini menggun
 [![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Framework: TensorFlow](https://img.shields.io/badge/AI-TensorFlow-orange.svg)](https://www.tensorflow.org/)
 [![Model Format: ONNX](https://img.shields.io/badge/AI-ONNX-brightgreen.svg)](https://onnx.ai/)
-[![License: MIT (Contoh)](https://img.shields.io/badge/License-MIT-yellow.svg)](#lisensi) ---
+[![License: MIT ](https://img.shields.io/badge/License-MIT-yellow.svg)](#lisensi) ---
 
 ## ✨ Fitur Utama
 
@@ -14,16 +14,6 @@ Sistem deteksi emosi wajah secara _real-time_ yang canggih! Aplikasi ini menggun
 * ⏱️ **Proses Real-Time**: Analisis langsung dari input webcam, lengkap dengan _bounding box_ di sekitar wajah dan label emosi yang terdeteksi.
 * 💻 **Penggunaan Mudah**: Cukup satu perintah untuk menjalankan seluruh aplikasi dan melihat hasilnya.
 * 💡 **Fleksibel**: Opsi untuk menyesuaikan path model jika diperlukan.
-
----
-
-## 🖼️ Screenshot Aplikasi (Contoh)
-
-_(Disarankan untuk menambahkan screenshot atau GIF demo aplikasi Anda di sini)_
-
-![Contoh Screenshot Aplikasi Deteksi Emosi](https://via.placeholder.com/600x400.png?text=Screenshot+Aplikasi+Anda+Di+Sini)
-
----
 
 ## 🛠️ Teknologi yang Digunakan
 
@@ -87,7 +77,7 @@ _(Disarankan untuk menambahkan screenshot atau GIF demo aplikasi Anda di sini)_
     >     <nama-folder-proyek>/dodosd/model/retinaface_mobilefacenet025_tf/
     >     ```
     >
-    > *(Catatan: Jika model tidak disertakan dalam repositori, Anda perlu mengunduhnya terlebih dahulu dari sumber yang relevan dan menempatkannya sesuai path di atas.)*
+    > *Donwload Model di sini --> https://drive.google.com/drive/folders/1sclDGNjEwFj04R0ytpjHq6KftaN9FU5m?usp=sharing*
 
 ---
 
